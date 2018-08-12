@@ -9,4 +9,4 @@ Daniel Molnar
 
 ### What is your favorite color?
 
-Blue
+Blue and Red
